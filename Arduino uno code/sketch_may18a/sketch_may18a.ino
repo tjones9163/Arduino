@@ -1,5 +1,5 @@
 #include<SoftwareSerial.h>
-#include<Servo.h>
+           #include<Servo.h>
 Servo x;
 int bttx=10;    //tx of bluetooth module is connected to pin 9 of arduino
 int btrx=11;    //rx of bluetooth module is connected to pin 10 of arduino
