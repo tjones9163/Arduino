@@ -11,7 +11,7 @@
 #include <IRremote.h>
  
 // Define sensor pin
-const int RECV_PIN = 4;
+        const int RECV_PIN = 4;
  
 // Define IR Receiver and Results Objects
 IRrecv irrecv(RECV_PIN);
